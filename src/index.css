@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Social links hover effect with smooth scaling and floating */
+/* social links hover effect with smooth scaling and floating */
 .social-link {
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -12,7 +12,7 @@
   filter: drop-shadow(0 0 8px rgba(255, 255, 255, 0.3));
 }
 
-/* Custom volume slider styling */
+/* custom volume slider styling */
 input[type="range"] {
   -webkit-appearance: none;
   appearance: none;
@@ -48,7 +48,7 @@ input[type="range"]:hover::-webkit-slider-thumb {
   box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
 }
 
-/* Floating logo animation */
+/* floating logo animation */
 .logo-animation {
   animation: float 6s ease-in-out infinite;
 }
@@ -65,7 +65,7 @@ input[type="range"]:hover::-webkit-slider-thumb {
   }
 }
 
-/* Fade in animation for new elements */
+/* fade in animation for new elements */
 @keyframes fadeIn {
   from {
     opacity: 0;
@@ -81,7 +81,7 @@ input[type="range"]:hover::-webkit-slider-thumb {
   animation: fadeIn 0.3s ease-out forwards;
 }
 
-/* Player glow effect */
+/* player glow effect */
 .player-glow {
   box-shadow: 0 0 30px rgba(255, 255, 255, 0.03);
   transition: box-shadow 0.3s ease;
@@ -91,7 +91,7 @@ input[type="range"]:hover::-webkit-slider-thumb {
   box-shadow: 0 0 40px rgba(255, 255, 255, 0.05);
 }
 
-/* Scrolling text styles */
+/* scrolling text styles */
 .scroll-text {
   overflow: hidden;
   white-space: nowrap;
@@ -103,12 +103,12 @@ input[type="range"]:hover::-webkit-slider-thumb {
   transition: transform 15s linear;
 }
 
-/* Button glow effect */
+/* button glow effect */
 .shadow-glow {
   box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
 }
 
-/* Custom scrollbar styling */
+/* custom scrollbar styling */
 .playlist-scroll {
   scrollbar-width: thin;
   scrollbar-color: rgba(255, 255, 255, 0.1) transparent;
@@ -133,7 +133,7 @@ input[type="range"]:hover::-webkit-slider-thumb {
   background-color: rgba(255, 255, 255, 0.2);
 }
 
-/* Hide scrollbar when not hovering */
+/* hide scrollbar when not hovering */
 .playlist-scroll:not(:hover)::-webkit-scrollbar-thumb {
   opacity: 0;
 }
