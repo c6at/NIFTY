@@ -3,7 +3,6 @@
 // - Play/Pause toggle
 // - Skip forward/backward
 // - Fast forward/rewind
-// - Visual feedback on hover and active states
 // - Smooth transitions and animations
 // - Accessible controls with proper labels
 
