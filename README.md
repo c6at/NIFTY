@@ -3,7 +3,7 @@
 
 # 🎵 CLEAN WEB-BASED MUSIC PLAYER
 
-This is my FIRST project so don't expect something crazy
+This is my FIRST project so don't expect something crazy haha
 
 <a href="https://star-history.com/?repos=journey-ad/Moe-Counter&type=Date#c6at/NIFTY&Date">
  <picture>
